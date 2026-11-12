@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "SDN-STP-Fast: centralized loop prevention for local and IoT networks"
+type: software
+license: MIT
+authors:
+  - family-names: Moura
+    given-names: José
+    affiliation: "Instituto Universitário de Lisboa (ISCTE-IUL) and Instituto de Telecomunicações"
+preferred-citation:
+  type: article
+  title: "Resilient and Reconfigurable Fast Loop Prevention for Local and IoT Networks Using Software-Defined Networking"
+  authors:
+    - family-names: Moura
+      given-names: José
+  journal: "IEEE Access (submitted)"
+  year: 2026

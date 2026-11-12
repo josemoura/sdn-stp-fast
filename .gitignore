@@ -1,0 +1,14 @@
+# experiment output
+results/
+*.log
+# local wrapper with a machine-specific path
+experiments/ryu-manager
+# Python
+__pycache__/
+*.pyc
+.venv/
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

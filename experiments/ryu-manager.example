@@ -1,0 +1,5 @@
+#!/bin/sh
+# Copy this file to experiments/ryu-manager, make it executable (chmod +x) and set the path
+# of the ryu-manager of your Ryu environment. run_experiments.py runs the controller as
+# root, so a ryu-manager installed in a user virtual environment is not on root's PATH.
+exec /home/USER/.pyenv/versions/3.9.18/envs/ryu-env/bin/ryu-manager "$@"
